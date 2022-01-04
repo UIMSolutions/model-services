@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/model-services
+model-services.so
+model-services.dylib
+model-services.dll
+model-services.a
+model-services.lib
+model-services-test-*
+*.exe
+*.o
+*.obj
+*.lst
